@@ -5,8 +5,8 @@
 AZURE LINK : 
 
 
-MyPdfAddA is our project that is done as the solution for searching of pdfs of our subjects 
-as our solution we made a webpage that where we kept all our pdfs and their cloud links in our site which is used to help and download the pdf file that required
+Gusto is my project that is done as the solution for searching of best food or resturants
+as our solution we made a webpage that where we kept few food   and  resutarunt details their cloud links in our site which is used to help find  that are required
 
 
 # Features
