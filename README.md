@@ -33,6 +33,8 @@ as our solution we made a webpage that where we kept few food   and  resutarunt 
  -  Easy to Navigate in Both Mobile and Deaktop
  
 # Screenshots
+![Screenshot 2022-09-01 110300](https://user-images.githubusercontent.com/108449615/187839166-c8072160-e8e4-4ea8-96e8-b982481f9f59.png)
+![WhatsApp Image 2022-09-01 at 11 08 39 AM](https://user-images.githubusercontent.com/108449615/187839668-23568de7-75d9-4d54-9184-4f608760eec9.jpeg)
 
 
 # About Us
